@@ -1,0 +1,18 @@
+﻿  Trigger.cpp
+  PMemory.cpp
+c:\users\ville\documents\visual studio 2015\projects\csgo simple external\csgo simple external\pmemory.cpp(54): error C2664: 'int strcmp(const char *,const char *)': cannot convert argument 1 from 'WCHAR [260]' to 'const char *'
+  c:\users\ville\documents\visual studio 2015\projects\csgo simple external\csgo simple external\pmemory.cpp(54): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\users\ville\documents\visual studio 2015\projects\csgo simple external\csgo simple external\pmemory.cpp(162): error C2664: 'int strcmp(const char *,const char *)': cannot convert argument 1 from 'WCHAR [256]' to 'const char *'
+  c:\users\ville\documents\visual studio 2015\projects\csgo simple external\csgo simple external\pmemory.cpp(162): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Main.cpp
+  Generating Code...
+  Compiling...
+  Misc.cpp
+  LocalPlayer.cpp
+  Glow.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  NoHands.cpp
+  NoFlash.cpp
+  Bhop.cpp
+  AutoPistol.cpp
